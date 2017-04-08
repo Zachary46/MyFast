@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="write">#ffffff</color>
+    <color name="green">#22AC39</color>
+    <color name="fense">#ff7461</color>
+    <color name="greentxt">#20ab37</color>
+    <color name="small_circle_unchecked_color">#F0F0F0</color>
+    <color name="darkgrey">#6C6C6C</color>
+    <color name="lightgrey">#ECECEC</color>
+    <color name="gery_light">#ECECEC</color>
+    <color name="lightlightgrey">#F1F1F1</color>
+    <color name="black">#000000</color>
+    <color name="gery">#c0c0c0</color>
+    <color name="red">#ee2c2c</color>
+    <color name="orange">#f59331</color>
+
+    <color name="gh_grey">#5b5b5b</color>
+    <color name="my_grey">#999999</color>
+    <color name="gh_grey_2">#eeeff3</color>
+    <color name="gh_grey_txt">#B5B5B5</color>
+    <color name="gh_grey_hint">#7E7E7E</color>
+    <color name="gh_grey_a2">#a2a2a2</color>
+    <color name="gh_grey_dark">#373737</color>
+    <color name="gh_grey_live">#707070</color>
+
+    <color name="gh_home_grey">#D3D6D8</color>
+    <color name="gh_divider_grey">#D6D6D6</color>
+    <color name="gh_home_select">#1E252B</color>
+    <color name="gh_black">#262628</color>
+    <color name="gh_title">#262628</color>
+    <color name="gh_black_deep">#000</color>
+    <color name="gh_yellow">#FDC00E</color>
+    <color name="gh_yellow_integrity">#FD6134</color>
+    <color name="gh_green">#bbc730</color>
+    <color name="gh_green_homepage">#43c4c3</color>
+    <color name="gh_drak_blue">#00325d</color>
+    <color name="gh_bg_color">#f5f5f5</color>
+    <color name="gh_bg_color2">#f8f8f8</color>
+    <color name="gh_bg_hs">#f8f8f8</color>
+    <color name="gh_subject_gray">#FBFBFB</color>
+    <color name="gh_red">#fb2837</color>
+    <color name="gh_pink_light">#8D505A</color>
+    <color name="gh_pink_dark">#92616F</color>
+    <color name="gh_pink">#fa536f</color>
+    <color name="transparent">#ffffffff</color>
+    <color name="transparent_full">#00000000</color>
+    <color name="transparent_half">#50000000</color>
+    <color name="transparent_grey">#909fa0a0</color>
+    <color name="transparent_white">#20ffffff</color>
+    <color name="transparent_79">#79000000</color>
+    <color name="gh_grey_deep">#454851</color>
+    <color name="gh_vl">#d9d9d9</color>
+    <color name="gh_dk_green">#03bc01</color>
+    <color name="gh_focus_green">#67bc2b</color>
+    <color name="gh_et_blue">#9ab7ff</color>
+    <color name="dark_translucent">#7f000000</color>
+    <color name="gh_black_pop">#3a3a3a</color>
+    <color name="gh_black_txt">#353535</color>
+    <color name="gh_teal">#30c6cc</color>
+    <color name="gh_interest_title">#393939</color>
+    <color name="navpage">#FFE1E8EB</color>
+    
+    <color name="gh_orange">#FF8A52</color>
+    <color name="gh_orange_light">#ffad33</color>
+    <color name="gh_orange_light2">#88ffad33</color>
+    <color name="gh_orange_f60">#FF6600</color>
+    <color name="gh_orange_deep">#EF7A42</color>
+    <color name="gh_white">#ffffff</color>
+
+    <color name="bg_ationbar">#004dac</color>
+    <color name="gh_blue3">#429de3</color>
+    <color name="gh_blue">#00c0ff</color>
+    <color name="gh_blue2">#00c0ff</color>
+    <color name="gh_blue_dark">#113c5e</color>
+    <color name="gh_blue_light">#90c2ff</color>
+    <color name="gh_blue_light_100">#c1d8f5</color>
+    <color name="gh_blue_personal">#4b96f2</color>
+    <color name="gh_blue_line">#0028ac</color>
+    <color name="gh_blue_fans">#00325d</color>
+    <color name="gh_blue_friends">#ff8b02</color>
+    <color name="bg_dialog_msg_text">#696969</color>
+    <color name="bg_dialog_normal">#f0ffffff</color>
+
+    <!--覆盖颜色-->
+    <color name="bgColor_overlay">#60000000</color>
+    <color name="bgColor_overlay_black">#95000000</color>
+    <!--窗口背景颜色-->
+    <color name="bgColor_svprogressdefaultview">@android:color/white</color>
+    <!--标题颜色-->
+    <color name="textColor_svprogresshuddefault_msg">#000000</color>
+    <color name="roundColor_svprogresshuddefault">#e5e5e5</color>
+    <color name="roundProgressColor_svprogresshuddefault">@android:color/black</color>
+
+    <color name="live_master">#ff3eb9</color>
+    <color name="live_me">#ffa103</color>
+    <color name="live_other">#e2e2e2</color>
+
+    <!-- login editbox -->
+    <color name="login_editbox_underline_enable">#67a24e</color>
+    <color name="login_editbox_underline_disable">#d7d7d7</color>
+
+</resources>

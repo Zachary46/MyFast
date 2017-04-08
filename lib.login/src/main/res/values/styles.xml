@@ -1,0 +1,30 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="actionBarSize">50dp</item>
+        <item name="colorPrimary">@color/gh_orange</item>
+        <item name="colorPrimaryDark">@color/orange</item>
+  <!--      <item name="android:windowBackground">@color/dh_bg_color</item>
+        <item name="titleTextAppearance">@style/tv_black_sl_toolbar</item>-->
+        <item name="android:textColorPrimary">@color/gh_white</item><!--改变toolbar上的字体颜色及三杠颜色 -->
+        <item name="actionMenuTextColor">@color/gh_white</item><!--改变toolbar 上的 actionmenu 字体颜色 -->
+        <item name="colorControlNormal">@color/gh_white</item>
+       <!-- <item name="popupTheme">@style/AppBarTheme</item>
+        <item name="actionBarItemBackground">@color/dh_white</item>
+        <item name="android:textCursorDrawable">@drawable/text_cursor</item>
+        <item name="actionMenuTextAppearance">@style/tv_black_sl_toolbar</item>改变标题颜色-->
+
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="MyEditText" parent="Theme.AppCompat.Light">
+        <!-- AppCompatEditText默认状态状态设置底线颜色 -->
+        <item name="colorControlNormal">@color/gh_grey_txt</item>
+
+        <!-- AppCompatEditText选择的底线颜色 -->
+        <item name="colorControlActivated">@color/green</item>
+    </style>
+
+</resources>
