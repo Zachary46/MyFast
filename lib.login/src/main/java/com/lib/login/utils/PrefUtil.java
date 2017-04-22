@@ -29,13 +29,6 @@ public class PrefUtil {
     private static final String CURRENT_TIME = "CURRENT_TIME";
     public static final String KEY_NO_DISTURB_MODE = "KEY_NO_DISTURB_MODE";
 
-
-    public synchronized static PrefUtil getInstance(BaseView view) {
-        if (null == mInstance) {
-            mInstance = new PrefUtil(view.getActivity().getApplicationContext());
-        }
-        return mInstance;
-    }
     public synchronized static PrefUtil getInstance(Context view) {
         if (null == mInstance) {
             mInstance = new PrefUtil(view.getApplicationContext());

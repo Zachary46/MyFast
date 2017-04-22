@@ -16,6 +16,6 @@ public class HomeActivity extends AppCompatActivity {
         textView= (TextView) findViewById(R.id.tvTitle);
         String phone=PrefUtil.getInstance(getApplicationContext()).getUserInfo().getMobile();
         boolean login=PrefUtil.getInstance(getApplicationContext()).isLogin();
-        textView.setText(phone+"------"+login);
+        textView.setText(phone+"---checkout from github---"+login);
     }
 }
